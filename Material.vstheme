@@ -6269,7 +6269,7 @@
     </Category>
     <Category Name="Package Manager Console" GUID="{f9d6bce6-c669-41db-8ee7-dd953828685b}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF263238" />
         <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="Selected Text">
