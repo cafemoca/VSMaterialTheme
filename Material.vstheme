@@ -6199,6 +6199,10 @@
       <Color Name="TextBoxDisabledBorder">
         <Background Type="CT_RAW" Source="FF607D8B" />
       </Color>
+      <Color Name="TextBoxFocused">
+        <Background Type="CT_RAW" Source="FF263238" />
+        <Foreground Type="CT_RAW" Source="FFF5F5F5" />
+      </Color>
       <Color Name="BackgroundLowerRegion">
         <Background Type="CT_RAW" Source="FF263238" />
         <Foreground Type="CT_RAW" Source="FFF5F5F5" />
